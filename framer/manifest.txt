@@ -1,0 +1,137 @@
+.git/COMMIT_EDITMSG
+.git/config
+.git/description
+.git/FETCH_HEAD
+.git/HEAD
+.git/hooks/applypatch-msg.sample
+.git/hooks/commit-msg.sample
+.git/hooks/post-update.sample
+.git/hooks/pre-applypatch.sample
+.git/hooks/pre-commit.sample
+.git/hooks/pre-push.sample
+.git/hooks/pre-rebase.sample
+.git/hooks/pre-receive.sample
+.git/hooks/prepare-commit-msg.sample
+.git/hooks/update.sample
+.git/index
+.git/info/exclude
+.git/logs/HEAD
+.git/logs/refs/heads/gh-pages
+.git/logs/refs/heads/master
+.git/logs/refs/remotes/origin/master
+.git/objects/01/6126a967a359ef2fa5aea01a2edc05bf8ab11b
+.git/objects/0b/358ae6314211df1b908ba2f17aee9d4f408398
+.git/objects/10/c2f7e072f94e340d52dca45a29c13a88ad1fe4
+.git/objects/17/6f8a1b8f642e3fdb4f3e98399f6cfae6ab80d0
+.git/objects/17/8e50484be542e47043736e230039cfe2394e01
+.git/objects/1c/eeb5e4351a9d173658e5dcdd516bcb086584cd
+.git/objects/26/5c5e6bbabe1a015443e41226cbc7d7f131ecc1
+.git/objects/28/e73f517df3786cde59412c87ea5e399dbd7cc3
+.git/objects/2f/5367c837e54f1df2794208bb51d9bb501bbfe0
+.git/objects/35/dc16f1d420bce2ed881cdd7a117f623a7013bc
+.git/objects/36/ef5032150ebcd264d62e9f0d9a5d8c3df8b4e8
+.git/objects/39/e7d11a19a5dbf593a23220e47b1440fd27467b
+.git/objects/39/fba11e17d2b899936696c8a7196b50004c46fb
+.git/objects/40/2b50a1cb74fdf5dc66de1ad4170372deeec8c2
+.git/objects/43/f41ba75e8e0924c437e216b591eb3428b13d17
+.git/objects/44/5371f3d564d1069a680aa2c0f442e40d279606
+.git/objects/45/5a04efa394b5e33523b0c788db990903884b1c
+.git/objects/45/79adea871234e9b2b7c40c969e37eb94898e46
+.git/objects/48/52ce6f2faafc675d2d26d44bdc81ea832353c3
+.git/objects/54/719d2dedd72896c8cd1f215d3a733a533bf038
+.git/objects/5c/e9116382e06d89828828e895200d1a956e8928
+.git/objects/5d/b176f823d62ed7d165b1459fd0162a6bda78c1
+.git/objects/62/f27e40088ad246d8eb7184d6b379acfe41ad6b
+.git/objects/68/92c66550bec41eedc22879af66f101a9404df1
+.git/objects/78/13681f5b41c028345ca62a2be376bae70b7f61
+.git/objects/7f/5e557c844ad1b0bff1fa55d69d76057ac94f42
+.git/objects/85/9cfda733629062baa68be6cb0acb29c26929eb
+.git/objects/8a/b28fc9276ecb8dbdea9dbe589ad5538411abef
+.git/objects/8c/e6058b0afa414de19b58d94889d9cfa252c7eb
+.git/objects/92/0a36ac17edd95bd8c3a5fd908e8e252d09495d
+.git/objects/9c/4f99b22a56fb8c71bac4b077baf261ac8a175e
+.git/objects/9e/9521842d00b626f2dafd24219045de4a33649a
+.git/objects/a0/3502d5da98680f7373ed47f4f9b695b67a4a9f
+.git/objects/a3/ae7315264a6894cc3d0007169d1024124a7d26
+.git/objects/a5/03abe84373c8ef89431c7bb4bdf9644b67b10a
+.git/objects/a5/85dd00437e8f57794f3632c48dd547e11c779e
+.git/objects/a8/3e4ceb8b528b3e528a0c6b9e0535814e55857a
+.git/objects/b8/1af8a11181363e87bbf5964db1284e00f9d86a
+.git/objects/bd/fbbdaedb2d4b952d0852ecb567ecdbdaa2545e
+.git/objects/be/1fb002d2a89d59453c74687b3d5055a63dc3fe
+.git/objects/c2/70bd326ef5f0a4261dd4d0655e4887bc4c3076
+.git/objects/c3/0e6d6a1d10e962df04cacc048a9592c797490b
+.git/objects/cc/0829945b321bbd5e34cbc78e9886efe2e48867
+.git/objects/d3/d88714469f76b3f7e5f31b4df8effe8e735a6a
+.git/objects/d4/d91c920b6d7901f1d25e86da51373630c38639
+.git/objects/d7/d167162c9c96d42c4cfb5374c72b26bef1ea72
+.git/objects/db/f29904270c3bc4f07153569f3a49f6c0bf2da6
+.git/objects/dd/e13d8b5aa11f1e8d96eaf181d6e482c56e02e3
+.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+.git/objects/e8/840eeb218390a1b42980cdb507b00c49aec841
+.git/refs/heads/gh-pages
+.git/refs/heads/master
+.git/refs/remotes/origin/master
+app.coffee
+framer/backups/backup-2016-12-19 18.18.08.coffee
+framer/backups/backup-2016-12-19 18.19.08.coffee
+framer/backups/backup-2016-12-19 18.20.08.coffee
+framer/backups/backup-2016-12-19 18.21.09.coffee
+framer/backups/backup-2016-12-19 18.22.08.coffee
+framer/backups/backup-2016-12-19 18.33.08.coffee
+framer/backups/backup-2016-12-19 18.34.08.coffee
+framer/backups/backup-2016-12-19 18.37.08.coffee
+framer/backups/backup-2016-12-19 18.39.08.coffee
+framer/backups/backup-2016-12-19 18.40.08.coffee
+framer/backups/backup-2016-12-19 18.41.08.coffee
+framer/backups/backup-2016-12-19 18.42.08.coffee
+framer/backups/backup-2016-12-19 18.43.08.coffee
+framer/backups/backup-2016-12-19 18.45.08.coffee
+framer/backups/backup-2016-12-19 18.48.08.coffee
+framer/backups/backup-2016-12-19 18.55.08.coffee
+framer/backups/backup-2016-12-19 19.01.08.coffee
+framer/backups/backup-2016-12-19 19.02.08.coffee
+framer/backups/backup-2016-12-19 19.03.08.coffee
+framer/backups/backup-2016-12-19 19.04.08.coffee
+framer/backups/backup-2016-12-19 19.05.08.coffee
+framer/coffee-script.js
+framer/config.json
+framer/framer.generated.js
+framer/framer.init.js
+framer/framer.js
+framer/framer.js.map
+framer/framer.modules.js
+framer/images/cursor-active.png
+framer/images/cursor-active@2x.png
+framer/images/cursor.png
+framer/images/cursor@2x.png
+framer/images/icon-120.png
+framer/images/icon-152.png
+framer/images/icon-180.png
+framer/images/icon-192.png
+framer/images/icon-76.png
+framer/manifest.txt
+framer/metadata.json
+framer/preview.png
+framer/style.css
+framer/version
+images/camp_hilites_2.mp4
+imported/new-star-proto2@1x/images/Layer-bglayer-njqyrtvb.png
+imported/new-star-proto2@1x/images/Layer-footer-rju3mkve.png
+imported/new-star-proto2@1x/images/Layer-frame-qujbrkqx.png
+imported/new-star-proto2@1x/images/Layer-gorkygorod-mzk1rei2.png
+imported/new-star-proto2@1x/images/Layer-hero-qjcxnkrg.png
+imported/new-star-proto2@1x/images/Layer-join-rti0odk5.png
+imported/new-star-proto2@1x/images/Layer-link-nku3odex.png
+imported/new-star-proto2@1x/images/Layer-logo-qtncnzm5.png
+imported/new-star-proto2@1x/images/Layer-midlayer-qji2neix.png
+imported/new-star-proto2@1x/images/Layer-partners-oee2mkff.png
+imported/new-star-proto2@1x/images/Layer-photolayer-qzm0mkrd.png
+imported/new-star-proto2@1x/images/Layer-program-mkqyrtyw.png
+imported/new-star-proto2@1x/images/Layer-static-mefbqte3.png
+imported/new-star-proto2@1x/images/Layer-timendate-njm3qzqz.png
+imported/new-star-proto2@1x/images/Layer-way-rjherjuy.png
+imported/new-star-proto2@1x/layers.json
+imported/new-star-proto2@1x/layers.json.js
+index.html
+modules/myModule.coffee
