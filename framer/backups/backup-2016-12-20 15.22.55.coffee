@@ -18,13 +18,14 @@ sk.artb.clip = true
 sk.artb.center()
 
 
-scroller = ScrollComponent.wrap(sk.artb)
+scroller = ScrollComponent.wrap(sk.mainlayer)
+scroller.superLayer = sk.artb
 scroller.scrollHorizontal = false
-scroller.backgroundColor = "#E4F2F2"
+scroller.backgroundColor = ""
 scroller.contentInset = 
 	top: 0
 	right: 0
-	bottom: -600
+	bottom: 100
 	left: 0
 	
 vid = new VideoLayer
@@ -37,7 +38,17 @@ vid = new VideoLayer
 	backgroundColor: ""
 
 vid.player.loop = true
-#vid.player.play()
+vid.player.play()
+
+base1 = sk.bglayer.y - scroller.content.y
+base2 = sk.midlayer.y - scroller.content.y
+base3 = sk.photolayer.y - scroller.content.y
+
 
 scroller.onMove ->
-	sk.bglayer
+	sk.bglayer.y = scroller.content.y * 0.8 + base1 
+	sk.midlayer.y = scroller.content.y * 1.1 + base2 
+	sk.photolayer.y = scroller.content.y * 1.2 + base3
+	
+
+#ch

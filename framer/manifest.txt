@@ -19,6 +19,7 @@
 .git/logs/refs/heads/gh-pages
 .git/logs/refs/remotes/origin/gh-pages
 .git/objects/01/6126a967a359ef2fa5aea01a2edc05bf8ab11b
+.git/objects/03/231a1aea5a91a4bbcc138e5a5fc211d1a2d1c4
 .git/objects/0b/358ae6314211df1b908ba2f17aee9d4f408398
 .git/objects/10/c2f7e072f94e340d52dca45a29c13a88ad1fe4
 .git/objects/14/0a24294d0a62e477aebf603598704068bb7276
@@ -46,6 +47,7 @@
 .git/objects/45/5a04efa394b5e33523b0c788db990903884b1c
 .git/objects/45/79adea871234e9b2b7c40c969e37eb94898e46
 .git/objects/48/52ce6f2faafc675d2d26d44bdc81ea832353c3
+.git/objects/4f/56723837b1c8112aa39387e973090a4cb6fdc6
 .git/objects/54/719d2dedd72896c8cd1f215d3a733a533bf038
 .git/objects/5c/e9116382e06d89828828e895200d1a956e8928
 .git/objects/5d/b176f823d62ed7d165b1459fd0162a6bda78c1
@@ -57,6 +59,7 @@
 .git/objects/85/9cfda733629062baa68be6cb0acb29c26929eb
 .git/objects/88/989779cf6220d12a73e811fae8bf646b294d61
 .git/objects/8a/b28fc9276ecb8dbdea9dbe589ad5538411abef
+.git/objects/8c/e49da5f7f8e8da731b2f145d4f458125b8fe10
 .git/objects/8c/e6058b0afa414de19b58d94889d9cfa252c7eb
 .git/objects/8e/4e80a8d90d40a4a6f9d67f1737eba81965c1b8
 .git/objects/92/0a36ac17edd95bd8c3a5fd908e8e252d09495d
@@ -76,6 +79,7 @@
 .git/objects/bd/fbbdaedb2d4b952d0852ecb567ecdbdaa2545e
 .git/objects/be/1fb002d2a89d59453c74687b3d5055a63dc3fe
 .git/objects/bf/6c2580f9bc76be34109099dbc3f7208d6a2a88
+.git/objects/bf/a796a4cd178808357b458826f49182d7cdae33
 .git/objects/c2/70bd326ef5f0a4261dd4d0655e4887bc4c3076
 .git/objects/c3/0e6d6a1d10e962df04cacc048a9592c797490b
 .git/objects/cc/0829945b321bbd5e34cbc78e9886efe2e48867
@@ -92,11 +96,13 @@
 .git/objects/e6/436bcc82eada7a9cbbf58a3df37b9b9eb1d4c4
 .git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391
 .git/objects/e8/840eeb218390a1b42980cdb507b00c49aec841
+.git/objects/ea/0835683d481050ea436620249b767a37560423
+.git/objects/ea/18a1ddf0afaec0ac33098b21fd30dea199e2c2
 .git/objects/f3/2ffb1cdfe0a0f45e97ec0cc62ddf1de2cc5f7f
+.git/objects/fe/5a62a967e6446f890970ade336c37510e5df95
 .git/refs/heads/gh-pages
 .git/refs/remotes/origin/gh-pages
 app.coffee
-framer/backups/backup-2016-12-19 18.19.08.coffee
 framer/backups/backup-2016-12-19 18.20.08.coffee
 framer/backups/backup-2016-12-19 18.21.09.coffee
 framer/backups/backup-2016-12-19 18.22.08.coffee
@@ -117,6 +123,7 @@ framer/backups/backup-2016-12-19 19.03.08.coffee
 framer/backups/backup-2016-12-19 19.04.08.coffee
 framer/backups/backup-2016-12-19 19.05.08.coffee
 framer/backups/backup-2016-12-19 19.10.08.coffee
+framer/backups/backup-2016-12-20 15.22.55.coffee
 framer/coffee-script.js
 framer/config.json
 framer/framer.generated.js
